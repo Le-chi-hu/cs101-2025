@@ -9,6 +9,6 @@ int main(){
         i/=10;
         first=i%10;
     }
-printf("first %d+ last %d = %d,first,last,first+last");
+printf("first %d+ last %d = %d",first,last,first+last);
 return 0;
 }
